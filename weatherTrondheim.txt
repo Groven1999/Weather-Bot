@@ -1,0 +1,25 @@
+Værmelding for Lørdag:
+kl 00 er det meldt 2 m/s fra vest med vindkast på 4 m/s grader! 
+kl 01 er det meldt 3 m/s fra sørvest med vindkast på 5 m/s grader! 
+kl 02 er det meldt 3 m/s fra sørvest med vindkast på 5 m/s grader! 
+kl 03 er det meldt 3 m/s fra sørvest med vindkast på 5 m/s grader! 
+kl 04 er det meldt 3 m/s fra sørvest med vindkast på 6 m/s grader! 
+kl 05 er det meldt 3 m/s fra sørvest med vindkast på 6 m/s grader! 
+kl 06 er det meldt 3 m/s fra sørvest med vindkast på 5 m/s grader! 
+kl 07 er det meldt 3 m/s fra sørvest med vindkast på 5 m/s grader! 
+kl 08 er det meldt 2 m/s fra sørvest med vindkast på 5 m/s grader! 
+kl 09 er det meldt 2 m/s fra sør med vindkast på 4 m/s grader! 
+kl 10 er det meldt 1 m/s fra sørøst med vindkast på 4 m/s grader! 
+kl 11 er det meldt 3 m/s fra nordøst med vindkast på 6 m/s grader! 
+kl 12 er det meldt 4 m/s fra nordøst med vindkast på 8 m/s grader! 
+kl 13 er det meldt 4 m/s fra nordøst med vindkast på 8 m/s grader! 
+kl 14 er det meldt 4 m/s fra nordøst med vindkast på 8 m/s grader! 
+kl 15 er det meldt 4 m/s fra nordøst med vindkast på 8 m/s grader! 
+kl 16 er det meldt 5 m/s fra nordøst med vindkast på 9 m/s grader! 
+kl 17 er det meldt 4 m/s fra nordøst med vindkast på 9 m/s grader! 
+kl 18 er det meldt 4 m/s fra nordøst med vindkast på 8 m/s grader! 
+kl 19 er det meldt 3 m/s fra nordøst med vindkast på 6 m/s grader! 
+kl 20 er det meldt 3 m/s fra nordøst med vindkast på 5 m/s grader! 
+kl 21 er det meldt 2 m/s fra nord med vindkast på 5 m/s grader! 
+kl 22 er det meldt 1 m/s fra nordvest med vindkast på 3 m/s grader! 
+kl 23 er det meldt 2 m/s fra vest med vindkast på 2 m/s grader! 
